@@ -5,12 +5,10 @@
     <title>我的第一个网页</title>
     <link rel="stylesheet" href="./style.css">
   </head>
-  
-  <body>
-   
+  <body>  
     <div class="card">
-    <h1>你好,奶龙大人</h1>
-    <p id="msg">这是我的第一个网页，现在它还只是一个本地的 HTML 文件。</p>
+    <h1>你好,我是奶龙</h1>
+    <p id="msg">这是我的第一个网页，现在它还只是一个本地的 HTML 文件。(遗憾)</p>
     <button onclick="changeText()">点我试试</button>
     </div>
     <script src="./script.js"></script>
