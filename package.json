@@ -8,9 +8,12 @@
     "hello": "git -v"
   },
   "devDependencies": {
+    "@vitejs/plugin-react": "^5.2.0",
     "vite": "^7.3.6"
   },
   "dependencies": {
-    "animejs": "^4.5.0"
+    "animejs": "^4.5.0",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0"
   }
 }
